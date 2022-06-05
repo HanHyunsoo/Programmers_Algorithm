@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95db3805-8875-4130-9342-c323f603ab6e" name="Changes" comment="문자열 압축">
+    <list default="true" id="95db3805-8875-4130-9342-c323f603ab6e" name="Changes" comment="K번째 수">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1653978754428</updated>
       <workItem from="1653978755781" duration="7845000" />
-      <workItem from="1654575115065" duration="530000" />
+      <workItem from="1654575115065" duration="2343000" />
     </task>
     <task id="LOCAL-00001" summary="docs : Add README.md">
       <created>1653979208688</created>
@@ -122,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654150017716</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="K번째 수">
+      <created>1654575666883</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1654575666883</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +151,7 @@
     <MESSAGE value="신고 결과 받기" />
     <MESSAGE value="Edit gitignore" />
     <MESSAGE value="문자열 압축" />
-    <option name="LAST_COMMIT_MESSAGE" value="문자열 압축" />
+    <MESSAGE value="K번째 수" />
+    <option name="LAST_COMMIT_MESSAGE" value="K번째 수" />
   </component>
 </project>
