@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95db3805-8875-4130-9342-c323f603ab6e" name="Changes" comment="카카오프렌즈 컬러링북">
+    <list default="true" id="95db3805-8875-4130-9342-c323f603ab6e" name="Changes" comment="기능 개발">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,7 +129,7 @@
       <option name="presentableId" value="Default" />
       <updated>1653978754428</updated>
       <workItem from="1653978755781" duration="7845000" />
-      <workItem from="1654575115065" duration="16212000" />
+      <workItem from="1654575115065" duration="16899000" />
     </task>
     <task id="LOCAL-00001" summary="docs : Add README.md">
       <created>1653979208688</created>
@@ -201,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654618969441</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="기능 개발">
+      <created>1654747729416</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1654747729416</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,7 +235,8 @@
     <MESSAGE value="내적" />
     <MESSAGE value="오픈채팅방" />
     <MESSAGE value="카카오프렌즈 컬러링북" />
-    <option name="LAST_COMMIT_MESSAGE" value="카카오프렌즈 컬러링북" />
+    <MESSAGE value="기능 개발" />
+    <option name="LAST_COMMIT_MESSAGE" value="기능 개발" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
