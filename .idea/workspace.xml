@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95db3805-8875-4130-9342-c323f603ab6e" name="Changes" comment="큰 수 만들기">
+    <list default="true" id="95db3805-8875-4130-9342-c323f603ab6e" name="Changes" comment="타겟 넘버">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,13 +56,20 @@
       <recent name="pro_92334" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.pro_42626.Solution">
+  <component name="RunManager" selected="Application.pro_64065.Solution">
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main3" />
+      <module name="Programmers" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pro_12899.Solution" />
+      <option name="MAIN_CLASS_NAME" value="pro_12973.Solution" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pro_12899.*" />
+          <option name="PATTERN" value="pro_12973.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pro_1829.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pro_1829.Solution" />
+    <configuration name="pro_43165.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pro_43165.Solution" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pro_1829.*" />
+          <option name="PATTERN" value="pro_43165.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pro_42586.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pro_42586.Solution" />
+    <configuration name="pro_64065.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pro_64065.Solution" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pro_42586.*" />
+          <option name="PATTERN" value="pro_64065.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,25 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pro_42626.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pro_42626.Solution" />
+    <configuration name="pro_77485.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pro_77485.Solution" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pro_42626.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="pro_42883.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pro_42883.Solution" />
-      <module name="Programmers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pro_42883.*" />
+          <option name="PATTERN" value="pro_77485.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.pro_42626.Solution" />
-        <item itemvalue="Application.pro_42883.Solution" />
+        <item itemvalue="Application.pro_64065.Solution" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.pro_42586.Solution" />
-        <item itemvalue="Application.pro_1829.Solution" />
+        <item itemvalue="Application.pro_77485.Solution" />
+        <item itemvalue="Application.pro_43165.Solution" />
+        <item itemvalue="Application.Main3" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +135,8 @@
       <option name="presentableId" value="Default" />
       <updated>1653978754428</updated>
       <workItem from="1653978755781" duration="7845000" />
-      <workItem from="1654575115065" duration="23708000" />
+      <workItem from="1654575115065" duration="25780000" />
+      <workItem from="1655274649899" duration="7358000" />
     </task>
     <task id="LOCAL-00001" summary="docs : Add README.md">
       <created>1653979208688</created>
@@ -234,7 +229,35 @@
       <option name="project" value="LOCAL" />
       <updated>1655082181108</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="더 맵게">
+      <created>1655084500669</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1655084500669</updated>
+    </task>
+    <task id="LOCAL-00015" summary="튜플">
+      <created>1655353048956</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1655353048956</updated>
+    </task>
+    <task id="LOCAL-00016" summary="행렬 테두리 회전하기">
+      <created>1655353207264</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1655353207264</updated>
+    </task>
+    <task id="LOCAL-00017" summary="타겟 넘버">
+      <created>1655353248798</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1655353248798</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -264,7 +287,11 @@
     <MESSAGE value="기능 개발" />
     <MESSAGE value="124 나라의 숫자" />
     <MESSAGE value="큰 수 만들기" />
-    <option name="LAST_COMMIT_MESSAGE" value="큰 수 만들기" />
+    <MESSAGE value="더 맵게" />
+    <MESSAGE value="튜플" />
+    <MESSAGE value="행렬 테두리 회전하기" />
+    <MESSAGE value="타겟 넘버" />
+    <option name="LAST_COMMIT_MESSAGE" value="타겟 넘버" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -275,8 +302,18 @@
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/pro_42626/Solution.java</url>
-          <line>15</line>
+          <url>file://$PROJECT_DIR$/src/pro_77485/Solution.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pro_77485/Solution.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pro_64065/Solution.java</url>
+          <line>32</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
