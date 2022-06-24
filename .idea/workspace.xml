@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95db3805-8875-4130-9342-c323f603ab6e" name="Changes" comment="캐시">
+    <list default="true" id="95db3805-8875-4130-9342-c323f603ab6e" name="Changes" comment="수식 최대화">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -142,7 +142,7 @@
       <updated>1653978754428</updated>
       <workItem from="1653978755781" duration="7845000" />
       <workItem from="1654575115065" duration="25780000" />
-      <workItem from="1655274649899" duration="33003000" />
+      <workItem from="1655274649899" duration="34555000" />
     </task>
     <task id="LOCAL-00001" summary="docs : Add README.md">
       <created>1653979208688</created>
@@ -298,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655653189262</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="수식 최대화">
+      <created>1655966655892</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1655966655892</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -337,7 +344,8 @@
     <MESSAGE value="2 x n 타일링" />
     <MESSAGE value="최솟값 만들기" />
     <MESSAGE value="캐시" />
-    <option name="LAST_COMMIT_MESSAGE" value="캐시" />
+    <MESSAGE value="수식 최대화" />
+    <option name="LAST_COMMIT_MESSAGE" value="수식 최대화" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
