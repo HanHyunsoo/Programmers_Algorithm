@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95db3805-8875-4130-9342-c323f603ab6e" name="Changes" comment="후보키" />
+    <list default="true" id="95db3805-8875-4130-9342-c323f603ab6e" name="Changes" comment="올바른 괄호">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +56,7 @@
       <recent name="pro_92334" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.pro_42746.Solution">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pro_12909.Solution" />
       <module name="Programmers" />
@@ -68,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pro_1844.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pro_1844.Solution" />
+    <configuration name="pro_42746.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pro_42746.Solution" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pro_1844.*" />
+          <option name="PATTERN" value="pro_42746.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.pro_42746.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.pro_67257.Solution" />
         <item itemvalue="Application.pro_42890.Solution" />
         <item itemvalue="Application.pro_72412.Solution" />
-        <item itemvalue="Application.pro_1844.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +142,7 @@
       <updated>1653978754428</updated>
       <workItem from="1653978755781" duration="7845000" />
       <workItem from="1654575115065" duration="25780000" />
-      <workItem from="1655274649899" duration="34864000" />
+      <workItem from="1655274649899" duration="36737000" />
     </task>
     <task id="LOCAL-00001" summary="docs : Add README.md">
       <created>1653979208688</created>
@@ -310,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656289264792</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="올바른 괄호">
+      <created>1656289744284</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1656289744284</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -351,7 +360,8 @@
     <MESSAGE value="캐시" />
     <MESSAGE value="수식 최대화" />
     <MESSAGE value="후보키" />
-    <option name="LAST_COMMIT_MESSAGE" value="후보키" />
+    <MESSAGE value="올바른 괄호" />
+    <option name="LAST_COMMIT_MESSAGE" value="올바른 괄호" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -383,5 +393,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Programmers$pro_67257_Solution.ic" NAME="pro_67257.Solution Coverage Results" MODIFIED="1656289538283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pro_67257.*</FILTER>
+    </SUITE>
   </component>
 </project>
