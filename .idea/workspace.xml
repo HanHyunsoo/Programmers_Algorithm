@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95db3805-8875-4130-9342-c323f603ab6e" name="Changes" comment="가장 큰 수">
+    <list default="true" id="95db3805-8875-4130-9342-c323f603ab6e" name="Changes" comment="JadenCase 문자열 만들기">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,13 +56,26 @@
       <recent name="pro_92334" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.pro_42746.Solution">
+  <component name="RunManager" selected="Application.pro_42583.Solution">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pro_12909.Solution" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="pro_12909.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pro_42583.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pro_42583.Solution" />
+      <module name="Programmers" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pro_42583.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,26 +122,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pro_72412.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pro_72412.Solution" />
-      <module name="Programmers" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pro_72412.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.pro_42583.Solution" />
         <item itemvalue="Application.pro_42746.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.pro_67257.Solution" />
         <item itemvalue="Application.pro_42890.Solution" />
-        <item itemvalue="Application.pro_72412.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +142,7 @@
       <updated>1653978754428</updated>
       <workItem from="1653978755781" duration="7845000" />
       <workItem from="1654575115065" duration="25780000" />
-      <workItem from="1655274649899" duration="38159000" />
+      <workItem from="1655274649899" duration="43407000" />
     </task>
     <task id="LOCAL-00001" summary="docs : Add README.md">
       <created>1653979208688</created>
@@ -326,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656291387580</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="JadenCase 문자열 만들기">
+      <created>1656305909798</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1656305909798</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,7 +351,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="docs : Add README.md" />
     <MESSAGE value="신고 결과 받기" />
     <MESSAGE value="Edit gitignore" />
     <MESSAGE value="문자열 압축" />
@@ -369,7 +375,8 @@
     <MESSAGE value="후보키" />
     <MESSAGE value="올바른 괄호" />
     <MESSAGE value="가장 큰 수" />
-    <option name="LAST_COMMIT_MESSAGE" value="가장 큰 수" />
+    <MESSAGE value="JadenCase 문자열 만들기" />
+    <option name="LAST_COMMIT_MESSAGE" value="JadenCase 문자열 만들기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -398,6 +405,11 @@
           <url>file://$PROJECT_DIR$/src/pro_1844/Solution.java</url>
           <line>27</line>
           <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pro_42583/Solution.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="79" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
