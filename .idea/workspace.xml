@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95db3805-8875-4130-9342-c323f603ab6e" name="Changes" comment="JadenCase 문자열 만들기">
+    <list default="true" id="95db3805-8875-4130-9342-c323f603ab6e" name="Changes" comment="다리를 지나는 트럭">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -142,7 +142,7 @@
       <updated>1653978754428</updated>
       <workItem from="1653978755781" duration="7845000" />
       <workItem from="1654575115065" duration="25780000" />
-      <workItem from="1655274649899" duration="43407000" />
+      <workItem from="1655274649899" duration="44266000" />
     </task>
     <task id="LOCAL-00001" summary="docs : Add README.md">
       <created>1653979208688</created>
@@ -333,7 +333,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656305909798</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="다리를 지나는 트럭">
+      <created>1656427496688</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1656427496688</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -351,7 +358,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="신고 결과 받기" />
     <MESSAGE value="Edit gitignore" />
     <MESSAGE value="문자열 압축" />
     <MESSAGE value="K번째 수" />
@@ -376,7 +382,8 @@
     <MESSAGE value="올바른 괄호" />
     <MESSAGE value="가장 큰 수" />
     <MESSAGE value="JadenCase 문자열 만들기" />
-    <option name="LAST_COMMIT_MESSAGE" value="JadenCase 문자열 만들기" />
+    <MESSAGE value="다리를 지나는 트럭" />
+    <option name="LAST_COMMIT_MESSAGE" value="다리를 지나는 트럭" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
