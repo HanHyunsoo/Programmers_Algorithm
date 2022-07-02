@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95db3805-8875-4130-9342-c323f603ab6e" name="Changes" comment="피보나치 수">
+    <list default="true" id="95db3805-8875-4130-9342-c323f603ab6e" name="Changes" comment="스킬트리">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,13 +56,13 @@
       <recent name="pro_92334" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.pro_49993.Solution">
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pro_12909.Solution" />
+  <component name="RunManager" selected="Application.pro_12905.Solution">
+    <configuration name="pro_12905.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pro_12905.Solution" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pro_12909.*" />
+          <option name="PATTERN" value="pro_12905.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.pro_12905.Solution" />
         <item itemvalue="Application.pro_49993.Solution" />
         <item itemvalue="Application.pro_12945.Solution" />
         <item itemvalue="Application.pro_42583.Solution" />
         <item itemvalue="Application.pro_42746.Solution" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +142,7 @@
       <updated>1653978754428</updated>
       <workItem from="1653978755781" duration="7845000" />
       <workItem from="1654575115065" duration="25780000" />
-      <workItem from="1655274649899" duration="48774000" />
+      <workItem from="1655274649899" duration="50207000" />
     </task>
     <task id="LOCAL-00001" summary="docs : Add README.md">
       <created>1653979208688</created>
@@ -354,7 +354,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656569695607</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="스킬트리">
+      <created>1656896436043</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1656896436043</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -372,7 +379,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="K번째 수" />
     <MESSAGE value="완주하지 못한 선수" />
     <MESSAGE value="내적" />
     <MESSAGE value="오픈채팅방" />
@@ -397,7 +403,8 @@
     <MESSAGE value="다리를 지나는 트럭" />
     <MESSAGE value="최댓값과 최솟값" />
     <MESSAGE value="피보나치 수" />
-    <option name="LAST_COMMIT_MESSAGE" value="피보나치 수" />
+    <MESSAGE value="스킬트리" />
+    <option name="LAST_COMMIT_MESSAGE" value="스킬트리" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
