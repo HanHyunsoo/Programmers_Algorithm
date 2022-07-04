@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95db3805-8875-4130-9342-c323f603ab6e" name="Changes" comment="가장 큰 정사각형 찾기">
+    <list default="true" id="95db3805-8875-4130-9342-c323f603ab6e" name="Changes" comment="두 개 뽑아서 더하기">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +56,7 @@
       <recent name="pro_92334" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.pro_42889.Solution">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pro_68644.Solution" />
       <module name="Programmers" />
@@ -96,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pro_42583.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pro_42583.Solution" />
+    <configuration name="pro_42889.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pro_42889.Solution" />
       <module name="Programmers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pro_42583.*" />
+          <option name="PATTERN" value="pro_42889.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.pro_42889.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.pro_12905.Solution" />
         <item itemvalue="Application.pro_49993.Solution" />
         <item itemvalue="Application.pro_12945.Solution" />
-        <item itemvalue="Application.pro_42583.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +142,7 @@
       <updated>1653978754428</updated>
       <workItem from="1653978755781" duration="7845000" />
       <workItem from="1654575115065" duration="25780000" />
-      <workItem from="1655274649899" duration="50866000" />
+      <workItem from="1655274649899" duration="53411000" />
     </task>
     <task id="LOCAL-00001" summary="docs : Add README.md">
       <created>1653979208688</created>
@@ -368,7 +368,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656898074345</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="두 개 뽑아서 더하기">
+      <created>1656898546109</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1656898546109</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -386,7 +393,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="내적" />
     <MESSAGE value="오픈채팅방" />
     <MESSAGE value="카카오프렌즈 컬러링북" />
     <MESSAGE value="기능 개발" />
@@ -411,7 +417,8 @@
     <MESSAGE value="피보나치 수" />
     <MESSAGE value="스킬트리" />
     <MESSAGE value="가장 큰 정사각형 찾기" />
-    <option name="LAST_COMMIT_MESSAGE" value="가장 큰 정사각형 찾기" />
+    <MESSAGE value="두 개 뽑아서 더하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="두 개 뽑아서 더하기" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
